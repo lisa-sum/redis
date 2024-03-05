@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 78fb4412a44e2b0d7ed32154ac48d2026ad53778 Lookke <xicons@qq.com> 1703427452 +0800	commit (initial): build: initial commit
+78fb4412a44e2b0d7ed32154ac48d2026ad53778 5d2fa412bcc8b6a2f0100c8b83cb8d26bd4ca4b7 Lookke <xicons@qq.com> 1703427622 +0800	commit: build: update README
+5d2fa412bcc8b6a2f0100c8b83cb8d26bd4ca4b7 cf24fe00affa3e02eb94a4b76c4f456e48cec935 Lookke <xicons@qq.com> 1703427817 +0800	commit: build: update README
+cf24fe00affa3e02eb94a4b76c4f456e48cec935 f590f5519b1cea4326731855bc611d31f0731f5a Lookke <xicons@qq.com> 1703427948 +0800	commit: build: update README
+f590f5519b1cea4326731855bc611d31f0731f5a e0b6c47c1485e911c7c521c6824ca32e378fb80c Lookke <xicons@qq.com> 1703444329 +0800	commit: update README
+e0b6c47c1485e911c7c521c6824ca32e378fb80c 350b0c6e13f23d5f2cab12b40d3dd10a7590babb Lookke <xicons@qq.com> 1703444450 +0800	commit: update README
+350b0c6e13f23d5f2cab12b40d3dd10a7590babb 765364943d367f794782ad1c08a4568a4e32ebcf Lookke <xicons@qq.com> 1703575186 +0800	commit: fix: update client code supper redis-server & redis-sentinel auth
+765364943d367f794782ad1c08a4568a4e32ebcf f17e93468c332f1dc1ac5c9a6b6a01b8f0d5f12c Lookke <xicons@qq.com> 1703683316 +0800	commit: feat: add enable redis service code

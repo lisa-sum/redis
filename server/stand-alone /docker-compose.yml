@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  redis-stand-alone:
+    image: redis:latest
+    restart: always
+    container_name: redis
+    volumes:
+      - ${DATA}:/data
+      - ${CONFIG}/redis.conf:/etc/redis/redis.conf
+    ports:
+      - "${PORT}:${CONTAINER_PORT}"
+    logging:
+      options:
+        max-size: "100m"
+        max-file: "2"
